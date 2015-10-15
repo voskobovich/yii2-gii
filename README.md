@@ -1,4 +1,4 @@
-Yii2 Admin Toolkit
+Yii2 Gii
 ================================
 
 Installation
@@ -9,13 +9,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist voskobovich/yii2-admin-toolkit "*"
+php composer.phar require --prefer-dist voskobovich/yii2-gii "*"
 ```
 
 or add
 
 ```
-"voskobovich/yii2-admin-toolkit": "*"
+"voskobovich/yii2-gii": "*"
 ```
 
 to the require section of your `composer.json` file.
