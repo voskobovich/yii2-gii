@@ -1,0 +1,35 @@
+{
+  "name": "voskobovich/yii2-gii",
+  "description": "Gii for Yii2",
+  "keywords": [
+    "gii",
+    "yii2"
+  ],
+  "homepage": "https://github.com/voskobovich/yii2-gii",
+  "type": "yii2-toolkit",
+  "license": "MIT",
+  "support": {
+    "issues": "https://github.com/voskobovich/yii2-gii/issues",
+    "source": "https://github.com/voskobovich/yii2-gii"
+  },
+  "authors": [
+    {
+      "name": "Vitaly Voskobovich",
+      "email": "vitaly@voskobovich.com",
+      "homepage": "http://voskobovich.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=5.4.0",
+    "yiisoft/yii2": "*"
+  },
+  "require-dev": {
+    "yiisoft/yii2-gii": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "voskobovich\\gii\\generators\\model\\": "generators/model"
+    }
+  }
+}
