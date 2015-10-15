@@ -1,16 +1,18 @@
 {
-  "name": "voskobovich/yii2-gii",
-  "description": "Gii for Yii2",
+  "name": "voskobovich/yii2-gii-generators",
+  "description": "Custom gii generators for Yii2",
   "keywords": [
     "gii",
+    "generators",
+    "custom",
     "yii2"
   ],
-  "homepage": "https://github.com/voskobovich/yii2-gii",
-  "type": "yii2-toolkit",
+  "homepage": "https://github.com/voskobovich/yii2-gii-generators",
+  "type": "yii2-gii",
   "license": "MIT",
   "support": {
-    "issues": "https://github.com/voskobovich/yii2-gii/issues",
-    "source": "https://github.com/voskobovich/yii2-gii"
+    "issues": "https://github.com/voskobovich/yii2-gii-generators/issues",
+    "source": "https://github.com/voskobovich/yii2-gii-generators"
   },
   "authors": [
     {

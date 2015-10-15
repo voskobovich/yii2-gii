@@ -1,4 +1,4 @@
-Yii2 Gii
+Yii2 Gii Generators
 ================================
 
 Installation
